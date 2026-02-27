@@ -1,1 +1,1 @@
-# fake-news-detector
+# Fake-news-detector-using-PA-algorithm
